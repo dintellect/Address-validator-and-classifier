@@ -6,6 +6,8 @@ Collection, cleaning and analyzing civic addresses open datasets for the Halifax
 
 ***CLASSIFICATION MODEL***
 
+Implemented Random Forest Algorithm to classify address into Residential and Non Residential. To improve the performance and accuracy of the model  hyperparameter tuning has been implemented.
+
 ***WEB SCRAPER***
 
 ***GOOGLE API***
