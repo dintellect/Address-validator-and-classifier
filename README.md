@@ -10,7 +10,7 @@ Implemented Random Forest Algorithm to classify address into Residential and Non
 
 ### Real Time Web Results
 
-To be more specific with the addresses a web scraper was added as a layer which scrapes the top 10 pages result from web.The text data extracted is cleaned and preprocessed using NLP methods. 
+To be more specific with the addresses a web scraper was added as a layer which scrapes the top 10 pages result from web. The text data extracted is cleaned and preprocessed using NLP methods. 
 
 ### Google API
 
