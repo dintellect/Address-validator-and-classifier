@@ -15,3 +15,9 @@ To be more specific with the addresses a web scraper was added as a layer which 
 ### Google API
 
 To get the real time map view and street images google API's are add on in the code.
+
+### Quick Links
+1. [dataset](https://github.com/dintellect/Address-validator-and-classifier/blob/master/TestData_v8.csv)
+2. [RF_Model Code](https://github.com/dintellect/Address-validator-and-classifier/blob/master/building_model.ipynb)
+3. [Pretrained_Model](https://github.com/dintellect/Address-validator-and-classifier/blob/master/model.pkl)
+3. [Final_Code](https://github.com/dintellect/Address-validator-and-classifier/blob/master/finalcode.ipynb)
